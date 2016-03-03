@@ -9,6 +9,7 @@
 1. Balcerwoicz Łukasz
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
 1. Bienias Jan
+1. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg)
@@ -21,4 +22,3 @@
 1. Kosma Aleksander
 1. Sasin Jacek
 1. Zakrzewski Michał
-2. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby)
